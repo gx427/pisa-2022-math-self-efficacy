@@ -1,0 +1,29 @@
+# Individual records, identifiers, imputations and locally generated outputs
+/revision/data/
+/revision/audit/
+/revision/results/
+/revision/figures/
+/revision/tables/
+/revision/R-library/
+*.sav
+*.SAV
+*.rds
+*.RDS
+*.RData
+.Rhistory
+.Ruserdata
+.Rproj.user/
+# Local Python environment, credentials and editor files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.Renviron
+*.pem
+*.p12
+*.key
+.DS_Store
+Thumbs.db
+~$*

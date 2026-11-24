@@ -1,0 +1,4 @@
+# Preserve the release checksums on checkout, including archived CSV line endings.
+* -text
+*.pdf binary
+*.tiff binary

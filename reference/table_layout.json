@@ -1,0 +1,643 @@
+{
+  "1": {
+    "caption": "Table 1  Sample characteristics and weighted means by education system",
+    "note": "Note. Student and school counts are unweighted. Complete data refer to the nine variables in the primary regressions. Other entries are weighted means [95% confidence intervals (CIs)] based on available responses. The difference is Hong Kong (China) minus Chinese Taipei. Dashes indicate that a mean difference does not apply. Intervals are pointwise and use the 80 Fay replicate weights. Achievement estimates combine all ten mathematics plausible values. Table S1 reports missingness by measure.",
+    "headers": [
+      "Characteristic",
+      "Hong Kong (China)",
+      "Chinese Taipei",
+      "Mean difference\n[95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Sampled students, n"
+      ],
+      [
+        "Sampled schools, n"
+      ],
+      [
+        "Students with observed self-efficacy, n"
+      ],
+      [
+        "Students with complete data, n"
+      ],
+      [
+        "Mathematics self-efficacy"
+      ],
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Proactive mathematics study behaviour"
+      ],
+      [
+        "Mathematics anxiety"
+      ],
+      [
+        "Sense of belonging at school"
+      ],
+      [
+        "Mathematics achievement"
+      ]
+    ]
+  },
+  "2": {
+    "caption": "Table 2  Adjusted associations with mathematics self-efficacy by education system",
+    "note": "Note. B denotes an unstandardised regression coefficient. All predictors shown were entered together. Brackets contain pointwise 95% confidence intervals calculated with the 80 Fay replicate weights. The complete-case samples comprised 5,388 students in Hong Kong (China) and 5,695 in Chinese Taipei. R² was .323 and .326, respectively. Table S2a gives the corresponding model before adjustment for study behaviour, anxiety and belonging.",
+    "headers": [
+      "Predictor",
+      "Hong Kong (China)\nB [95% CI]",
+      "Chinese Taipei\nB [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Proactive mathematics study behaviour"
+      ],
+      [
+        "Mathematics anxiety"
+      ],
+      [
+        "Sense of belonging at school"
+      ],
+      [
+        "Female (vs male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "3": {
+    "caption": "Table 3  Selected products of coefficients for mathematics self-efficacy",
+    "note": "Note. Each estimate is the product of two unstandardised regression coefficients for the same 5,388 students in Hong Kong (China) or 5,695 in Chinese Taipei. The difference is Hong Kong (China) minus Chinese Taipei. Products were recomputed under all 80 Fay replicate weights. Brackets contain pointwise 95% confidence intervals. Arrows show the order of the fitted equations. All six exploratory products are reported in Table S8.",
+    "headers": [
+      "Path",
+      "Hong Kong (China)\nEstimate [95% CI]",
+      "Chinese Taipei\nEstimate [95% CI]",
+      "Difference\n[95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Family support → proactive mathematics study behaviour → self-efficacy"
+      ],
+      [
+        "Student–teacher relationships → mathematics anxiety → self-efficacy"
+      ],
+      [
+        "Student–teacher relationships → sense of belonging at school → self-efficacy"
+      ]
+    ]
+  },
+  "4": {
+    "caption": "Table 4  Between-system differences in adjusted regression coefficients",
+    "note": "Note. Each difference is the unstandardised coefficient (B) in Hong Kong (China) minus the coefficient in Chinese Taipei, in published index units. Sampling variances from the two systems were added. Brackets contain pointwise 95% confidence intervals. Holm adjustment applies to the six p values shown.",
+    "headers": [
+      "Predictor",
+      "Difference in B\n[95% CI]",
+      "Unadjusted p",
+      "Holm-adjusted p"
+    ],
+    "row_labels": [
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Proactive mathematics study behaviour"
+      ],
+      [
+        "Mathematics anxiety"
+      ],
+      [
+        "Sense of belonging at school"
+      ]
+    ]
+  },
+  "S1": {
+    "caption": "Table S1  Missing data by education system",
+    "note": "Note. HKG = Hong Kong (China), N = 5,907. TAP = Chinese Taipei, N = 5,857. Missing n is the unweighted count. Each unweighted percentage uses all sampled students in that system as its denominator. Each weighted percentage uses the sum of their final student weights. Subtracting the missing count from the system sample size gives the number observed. The table summarises missing values on the analysis variables. At the item level, some questions were not administered by design.",
+    "headers": [
+      "Variable",
+      "HKG\nMissing n",
+      "HKG\nUnweighted %",
+      "HKG\nWeighted %",
+      "TAP\nMissing n",
+      "TAP\nUnweighted %",
+      "TAP\nWeighted %"
+    ],
+    "row_labels": [
+      [
+        "Mathematics self-efficacy"
+      ],
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Proactive mathematics study behaviour"
+      ],
+      [
+        "Mathematics anxiety"
+      ],
+      [
+        "Sense of belonging at school"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "S2a": {
+    "caption": "Table S2a  Regression coefficients for mathematics self-efficacy in the support model",
+    "note": "Note. B denotes an unstandardised regression coefficient. All models use the same complete cases (5,388 students in Hong Kong [China] and 5,695 in Chinese Taipei). The 95% confidence intervals (CIs) use 80 Fay balanced repeated replication (BRR) weights with a Fay coefficient of 0.5. Predictor definitions follow the Methods section. The intercept is included to allow the equation to be reproduced. Its value at zero on every predictor has no substantive interpretation.",
+    "headers": [
+      "Predictor",
+      "Hong Kong (China)\nB [95% CI]",
+      "Chinese Taipei\nB [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Intercept"
+      ],
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "S2b": {
+    "caption": "Table S2b  Regression coefficients for proactive mathematics study behaviour",
+    "note": "Note. B denotes an unstandardised regression coefficient. All models use the same complete cases (5,388 students in Hong Kong [China] and 5,695 in Chinese Taipei). The 95% confidence intervals (CIs) use 80 Fay balanced repeated replication (BRR) weights with a Fay coefficient of 0.5. Predictor definitions follow the Methods section. The intercept is included to allow the equation to be reproduced. Its value at zero on every predictor has no substantive interpretation.",
+    "headers": [
+      "Predictor",
+      "Hong Kong (China)\nB [95% CI]",
+      "Chinese Taipei\nB [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Intercept"
+      ],
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "S2c": {
+    "caption": "Table S2c  Regression coefficients for mathematics anxiety",
+    "note": "Note. B denotes an unstandardised regression coefficient. All models use the same complete cases (5,388 students in Hong Kong [China] and 5,695 in Chinese Taipei). The 95% confidence intervals (CIs) use 80 Fay balanced repeated replication (BRR) weights with a Fay coefficient of 0.5. Predictor definitions follow the Methods section. The intercept is included to allow the equation to be reproduced. Its value at zero on every predictor has no substantive interpretation.",
+    "headers": [
+      "Predictor",
+      "Hong Kong (China)\nB [95% CI]",
+      "Chinese Taipei\nB [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Intercept"
+      ],
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "S2d": {
+    "caption": "Table S2d  Regression coefficients for sense of belonging at school",
+    "note": "Note. B denotes an unstandardised regression coefficient. All models use the same complete cases (5,388 students in Hong Kong [China] and 5,695 in Chinese Taipei). The 95% confidence intervals (CIs) use 80 Fay balanced repeated replication (BRR) weights with a Fay coefficient of 0.5. Predictor definitions follow the Methods section. The intercept is included to allow the equation to be reproduced. Its value at zero on every predictor has no substantive interpretation.",
+    "headers": [
+      "Predictor",
+      "Hong Kong (China)\nB [95% CI]",
+      "Chinese Taipei\nB [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Intercept"
+      ],
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "S2e": {
+    "caption": "Table S2e  Regression coefficients for family support",
+    "note": "Note. B denotes an unstandardised regression coefficient. All models use the same complete cases (5,388 students in Hong Kong [China] and 5,695 in Chinese Taipei). The 95% confidence intervals (CIs) use 80 Fay balanced repeated replication (BRR) weights with a Fay coefficient of 0.5. Predictor definitions follow the Methods section. The intercept is included to allow the equation to be reproduced. Its value at zero on every predictor has no substantive interpretation.",
+    "headers": [
+      "Predictor",
+      "Hong Kong (China)\nB [95% CI]",
+      "Chinese Taipei\nB [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Intercept"
+      ],
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "S2f": {
+    "caption": "Table S2f  Regression coefficients for student–teacher relationships",
+    "note": "Note. B denotes an unstandardised regression coefficient. All models use the same complete cases (5,388 students in Hong Kong [China] and 5,695 in Chinese Taipei). The 95% confidence intervals (CIs) use 80 Fay balanced repeated replication (BRR) weights with a Fay coefficient of 0.5. Predictor definitions follow the Methods section. The intercept is included to allow the equation to be reproduced. Its value at zero on every predictor has no substantive interpretation.",
+    "headers": [
+      "Predictor",
+      "Hong Kong (China)\nB [95% CI]",
+      "Chinese Taipei\nB [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Intercept"
+      ],
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "S2g": {
+    "caption": "Table S2g  Products of coefficients linking socioeconomic status, support and mathematics self-efficacy",
+    "note": "Note. Each estimate is the product of three unstandardised regression coefficients in the order shown. The arrows indicate the order of the fitted equations. The variables are defined in the Methods section. All estimates use the primary complete cases (5,388 students in Hong Kong [China] and 5,695 in Chinese Taipei). Pointwise 95% confidence intervals (CIs) use 80 Fay balanced repeated replication weights with a Fay coefficient of 0.5. These exploratory cross-sectional associations do not identify causal mediation.",
+    "headers": [
+      "Coefficient product",
+      "Hong Kong (China)\nEstimate [95% CI]",
+      "Chinese Taipei\nEstimate [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Socioeconomic status → family support → proactive mathematics study behaviour → mathematics self-efficacy"
+      ],
+      [
+        "Socioeconomic status → student–teacher relationships → mathematics anxiety → mathematics self-efficacy"
+      ]
+    ]
+  },
+  "S3": {
+    "caption": "Table S3  Regression coefficients and coefficient products after multiple imputation of missing covariates",
+    "note": "Note. The analysis includes 5,523 students in Hong Kong (China) and 5,754 in Chinese Taipei with observed mathematics self-efficacy. Missing covariates were imputed 20 times within each system. The first eight rows give unstandardised regression coefficients for self-efficacy. The last three rows give products of coefficients. The 95% confidence intervals (CIs) combine Fay balanced repeated replication sampling variance within imputations and between-imputation variance using Rubin’s rules. Students with missing self-efficacy are excluded.",
+    "headers": [
+      "Predictor or coefficient product",
+      "Hong Kong (China)\nEstimate [95% CI]",
+      "Chinese Taipei\nEstimate [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Proactive mathematics study behaviour"
+      ],
+      [
+        "Mathematics anxiety"
+      ],
+      [
+        "Sense of belonging at school"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ],
+      [
+        "Family support → proactive mathematics study behaviour → mathematics self-efficacy"
+      ],
+      [
+        "Student–teacher relationships → mathematics anxiety → mathematics self-efficacy"
+      ],
+      [
+        "Student–teacher relationships → sense of belonging at school → mathematics self-efficacy"
+      ]
+    ]
+  },
+  "S4a": {
+    "caption": "Table S4a  Within-school regression coefficients for mathematics self-efficacy",
+    "note": "Note. B denotes an unstandardised within-school coefficient. The full model includes school fixed effects and uses the primary complete cases (5,388 students in Hong Kong [China] and 5,695 in Chinese Taipei). The 95% confidence intervals (CIs) use Fay balanced repeated replication. Table S4b examines a different outcome in the subset with observed reasoning self-efficacy (5,374 and 5,691 students, respectively).",
+    "headers": [
+      "Predictor",
+      "Hong Kong (China)\nB [95% CI]",
+      "Chinese Taipei\nB [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Proactive mathematics study behaviour"
+      ],
+      [
+        "Mathematics anxiety"
+      ],
+      [
+        "Sense of belonging at school"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "S4b": {
+    "caption": "Table S4b  Regression coefficients for self-efficacy in mathematical reasoning and 21st-century mathematics",
+    "note": "Note. B denotes an unstandardised coefficient. Starting from the primary complete cases (5,388 students in Hong Kong [China] and 5,695 in Chinese Taipei), we retained those who also had observed self-efficacy in mathematical reasoning and 21st-century mathematics (MATHEF21), leaving 5,374 and 5,691 students, respectively. The 95% confidence intervals (CIs) use Fay balanced repeated replication. Table S4a estimates within-school associations with the primary outcome.",
+    "headers": [
+      "Predictor",
+      "Hong Kong (China)\nB [95% CI]",
+      "Chinese Taipei\nB [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Family support"
+      ],
+      [
+        "Student–teacher relationships"
+      ],
+      [
+        "Proactive mathematics study behaviour"
+      ],
+      [
+        "Mathematics anxiety"
+      ],
+      [
+        "Sense of belonging at school"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "S5": {
+    "caption": "Table S5  Fit indices for single-factor models across the two education systems",
+    "note": "Note. CFI = comparative fit index, TLI = Tucker–Lewis index, RMSEA = root mean square error of approximation, SRMR = standardised root mean square residual. The first three indices are scaled. Models used weighted least squares mean- and variance-adjusted estimation, final student weights and pairwise handling of missing items. The global fit statistics have no balanced repeated replication adjustment. All models converged. Absolute fit and measurement invariance require separate evaluation. For the exploratory correlated two-factor mathematics self-efficacy model, CFI = .999, TLI = .999, RMSEA = .050 and SRMR = .029. This model did not constrain loadings or thresholds across systems. The scale codes are defined in Section S1.",
+    "headers": [
+      "Scale",
+      "Model",
+      "CFI",
+      "TLI",
+      "RMSEA",
+      "SRMR"
+    ],
+    "row_labels": [
+      [
+        "MATHEFF",
+        "Configural"
+      ],
+      [
+        "MATHEFF",
+        "Equal loadings"
+      ],
+      [
+        "MATHEFF",
+        "Equal loadings and thresholds"
+      ],
+      [
+        "ANXMAT",
+        "Configural"
+      ],
+      [
+        "ANXMAT",
+        "Equal loadings"
+      ],
+      [
+        "ANXMAT",
+        "Equal loadings and thresholds"
+      ],
+      [
+        "BELONG",
+        "Configural"
+      ],
+      [
+        "BELONG",
+        "Equal loadings"
+      ],
+      [
+        "BELONG",
+        "Equal loadings and thresholds"
+      ],
+      [
+        "RELATST",
+        "Configural"
+      ],
+      [
+        "RELATST",
+        "Equal loadings"
+      ],
+      [
+        "RELATST",
+        "Equal loadings and thresholds"
+      ],
+      [
+        "FAMSUP",
+        "Configural"
+      ],
+      [
+        "FAMSUP",
+        "Equal loadings"
+      ],
+      [
+        "FAMSUP",
+        "Equal loadings and thresholds"
+      ]
+    ]
+  },
+  "S6": {
+    "caption": "Table S6  Prediction of mathematics self-efficacy in five-fold cross-validation by school",
+    "note": "Note. All three models used the same complete cases and the same five folds defined by school. The statistics use final student weights and pooled predictions for students in held-out schools. R² denotes the out-of-sample coefficient of determination, RMSE the root mean square error and MAE the mean absolute error. Each statistic summarises a single five-fold cross-validation run. Confidence intervals were not estimated.",
+    "headers": [
+      "System",
+      "Model",
+      "n",
+      "R²",
+      "RMSE",
+      "MAE"
+    ],
+    "row_labels": [
+      [
+        "Hong Kong (China)",
+        "Support model"
+      ],
+      [
+        "Hong Kong (China)",
+        "Full linear model"
+      ],
+      [
+        "Hong Kong (China)",
+        "Spline model"
+      ],
+      [
+        "Chinese Taipei",
+        "Support model"
+      ],
+      [
+        "Chinese Taipei",
+        "Full linear model"
+      ],
+      [
+        "Chinese Taipei",
+        "Spline model"
+      ]
+    ]
+  },
+  "S7": {
+    "caption": "Table S7  Regression coefficients for mathematics achievement",
+    "note": "Note. B is the unstandardised coefficient in PISA mathematics achievement points. The same 5,388 students in Hong Kong (China) and 5,695 in Chinese Taipei were analysed for each of ten plausible values. The 95% confidence intervals (CIs) combine Fay balanced repeated replication sampling variance and between-plausible-value variance. The coefficients describe concurrent associations and do not identify the effect of increasing mathematics self-efficacy.",
+    "headers": [
+      "Predictor",
+      "Hong Kong (China)\nB [95% CI]",
+      "Chinese Taipei\nB [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Mathematics self-efficacy"
+      ],
+      [
+        "Socioeconomic status"
+      ],
+      [
+        "Female (vs. male)"
+      ],
+      [
+        "Relative grade"
+      ]
+    ]
+  },
+  "S8": {
+    "caption": "Table S8  Products of coefficients for support, student experiences and mathematics self-efficacy",
+    "note": "Note. Each estimate multiplies the unstandardised coefficient for a support measure in the student experience equation by the coefficient for that experience in the full mathematics self-efficacy model. Both equations adjust for the other support measure, socioeconomic status, sex and relative grade. The full model includes all three student experiences. The samples comprise 5,388 students in Hong Kong (China) and 5,695 in Chinese Taipei. The final column subtracts the Chinese Taipei estimate from the Hong Kong (China) estimate. Pointwise 95% confidence intervals (CIs) use 80 Fay balanced repeated replication weights (Fay coefficient = 0.5), with independent sampling variances added for the between-system differences. These exploratory products describe cross-sectional associations. They do not establish temporal order or causal mediation.",
+    "headers": [
+      "Support measure",
+      "Student experience",
+      "Hong Kong (China)\nEstimate [95% CI]",
+      "Chinese Taipei\nEstimate [95% CI]",
+      "Hong Kong (China) − Chinese Taipei\nEstimate [95% CI]"
+    ],
+    "row_labels": [
+      [
+        "Family support",
+        "Proactive mathematics study behaviour"
+      ],
+      [
+        "Family support",
+        "Mathematics anxiety"
+      ],
+      [
+        "Family support",
+        "Sense of belonging at school"
+      ],
+      [
+        "Student–teacher relationships",
+        "Proactive mathematics study behaviour"
+      ],
+      [
+        "Student–teacher relationships",
+        "Mathematics anxiety"
+      ],
+      [
+        "Student–teacher relationships",
+        "Sense of belonging at school"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+"economy","analysis","term","estimate","se","lower","upper","p","label"
+"HKG","Complete case","ind_family_behaviour",0.0564336409347894,0.00666072690756646,0.0433786161959591,0.0694886656736196,2.3998598511946e-17,"Family support → proactive behaviour → efficacy"
+"HKG","Complete case","ind_relationship_anxiety",0.0535568986061296,0.00948777973369036,0.0349608503280965,0.0721529468841627,1.6534505913668e-08,"Teacher relationships → anxiety → efficacy"
+"HKG","Complete case","ind_relationship_belonging",0.0126383202477479,0.00739142895579234,-0.00184888050560513,0.0271255210011008,0.0872914760940049,"Teacher relationships → belonging → efficacy"
+"TAP","Complete case","ind_family_behaviour",0.0624264781164762,0.00852627578556875,0.0457149775767615,0.079137978656191,2.44925117523928e-13,"Family support → proactive behaviour → efficacy"
+"TAP","Complete case","ind_relationship_anxiety",0.0110655194764034,0.00591276153142416,-0.000523493125187919,0.0226545320779948,0.0612808156101346,"Teacher relationships → anxiety → efficacy"
+"TAP","Complete case","ind_relationship_belonging",0.00101322674188249,0.00510312469676337,-0.00898889766377371,0.0110153511475387,0.842614564584546,"Teacher relationships → belonging → efficacy"
